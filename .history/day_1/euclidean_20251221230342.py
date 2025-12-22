@@ -13,4 +13,4 @@ squared_dist = delta_x**2 + delta_y**2
 
 distance = math.sqrt(squared_dist)
 
-print(f" the values are: {distance}")
+print("f the values are: {distance}")

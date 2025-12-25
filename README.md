@@ -1,10 +1,10 @@
 # 🐍 30 Days Of Python
 
-Working through the [30 Days of Python](https://github.com/Asabeneh/30-Days-Of-Python) challenge to strengthen my Python skills and deepen my understanding of core concepts.
+Working through the [30 Days of Python] challenge to strengthen my Python skills and deepen my understanding of core concepts.
 
 ## 📊 Progress
 
-**Current:** Day [X] of 30
+**Current:** Day [3] of 30
 
 ## 🎯 Topics Covered
 
